@@ -1,9 +1,8 @@
-# BitcoinTicker
-Learn to make iOS Apps 📱 | Project Stub | (Swift 3.0/Xcode 8) - Bitcoin Ticker App
+# ios_bitcoin_ticker 
+- an ios app that convert bitcoin into the selected currency 
 
-Download the starter project files as .zip and extract to your desktop. ^^
+## App functions
+- convert and show bitcoin value in selected currency 
 
-## Finished App
 ![Finished App](http://i.giphy.com/l0HlQGzz2MQCKIBI4.gif)
 
-Copyright 2016 London App Brewery
